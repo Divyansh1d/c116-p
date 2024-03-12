@@ -1,0 +1,38 @@
+#body{
+    background-color: aquamarine;
+}
+.header_div{
+    background-color: aqua;
+    color: red;
+}
+.p_tag{
+    font-family: "algerian";
+    font-weight: 100;
+    letter-spacing: 5px;
+    font-size: 25px;
+}
+.main_div button{
+   font-family: "comic";
+   margin-top: 20px;
+   width: 100px;
+   font-weight: 400;
+   letter-spacing: 3px;
+   text-align: center;
+   background-color: azure;
+color: blueviolet;
+}
+.main_div{
+    margin-top: 20px;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color: blueviolet;
+    bottom: 0;
+    width: 100%;
+    font-size:20px;
+    background-color: lightgoldenrodyellow;
+    line-height:3;
+    text-align:center;
+    text-shadow: 5px 5px 5px rgb(151 , 149 , 149);
+}
